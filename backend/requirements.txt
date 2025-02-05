@@ -1,0 +1,10 @@
+flask
+flask_cors
+flask_bcrypt
+flask_jwt_extended
+textblob
+pymongo
+nltk
+bcrypt
+python-dotenv
+requests

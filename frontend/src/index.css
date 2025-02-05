@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@theme {
+  --font-instrument: "Instrument Serif", "serif";
+  --font-roboto: "Roboto", "serif";
+  --color-accent: "#e97363";
+}
